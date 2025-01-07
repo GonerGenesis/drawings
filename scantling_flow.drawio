@@ -23,7 +23,7 @@
           <mxGeometry x="291" y="516" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BPBfe-7xIh0SEca6IZQC-21" value="$$\sigma_{perm,hg} \approx \frac{3}{4}\sigma_{perm,mat}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="295" width="140" height="35" as="geometry" />
+          <mxGeometry x="125" y="295" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BPBfe-7xIh0SEca6IZQC-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.778;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xtyvphs7Jjo8jYtZjm7t-17" target="BPBfe-7xIh0SEca6IZQC-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
